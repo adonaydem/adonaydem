@@ -4,7 +4,7 @@ Hi — I recently indulge with computer vision: diffusion and other generative m
 **What I do**
 - I am into Research and development.  
 - Agents & multi-agent systems.  
-- Backend engineering (FastAPI, Flask, DBMS).  
+- Backend engineering (FastAPI, Flask, DBMS) and Frontend(React).  
 
 **Experience**
 - Two internships: Computer Vision & AI & Backend.  
