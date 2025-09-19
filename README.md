@@ -1,6 +1,5 @@
-# To the top.
 
-Okay — I mainly work with computer vision: diffusion and generative models, and their applications like medical imaging.
+Hi — I recently indulge with computer vision: diffusion and generative models, and their applications like medical imaging.
 
 **What I do**
 - I am into Research and development.  
