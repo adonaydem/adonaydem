@@ -1,6 +1,6 @@
 [Portfolio Link](https://adonayportofolio.vercel.app/)
 
-Hi — I recently indulge with computer vision: diffusion and other generative models, and their applications in fields like medical imaging.
+Hi — I currently work with ML & computer vision: diffusion and other generative models, and their applications in fields like medical imaging.
 
 **What I do**
 - I am into Research and development.  
