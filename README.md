@@ -1,6 +1,7 @@
 [Portfolio Link](https://adonayportofolio.vercel.app/)
 
 Hi — I currently delve in software, ML & computer vision.
+
 **What I do**
 - I am into Research and development.  
 - Agents & multi-agent systems.  
