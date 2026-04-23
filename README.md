@@ -4,7 +4,7 @@ Hi — I currently work in software, ML & computer vision.
 
 **What I do**
 - I am into Research and development.
-- Multi-Modal / Vision-Language Models.
+- Multi-Modal(Radiology, Event Cameras) & Vision-Language Models.
 - Agents & multi-agent systems.  
 - Backend engineering (FastAPI, Flask, DBMS) and Frontend(React).  
 
