@@ -1,4 +1,4 @@
-[Portfolio Link](https://adonayportofolio.vercel.app/)
+[Portfolio Link](https://adonaydem.github.io)
 
 Hi — I currently work in software, ML & computer vision.
 
