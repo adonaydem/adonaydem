@@ -9,8 +9,9 @@ Hi — I currently work in software, ML & computer vision.
 - Backend engineering (FastAPI, Flask, DBMS) and Frontend(React).  
 
 **Experience**
-- Two internships: Computer Vision & AI & Backend.  
-- Many projects, multiple wins in competitions and demos.  
+- Three internships: Computer Vision & Software.  
+- Many projects, multiple wins in competitions and demos.
+- Top-tier Publication
 
 ---
 
